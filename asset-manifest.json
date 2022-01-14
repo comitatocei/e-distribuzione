@@ -1,0 +1,37 @@
+{
+  "files": {
+    "static/js/0.3e188037.chunk.js": "test-sas/static/js/0.3e188037.chunk.js",
+    "static/js/1.4cd77bf0.chunk.js": "test-sas/static/js/1.4cd77bf0.chunk.js",
+    "static/js/2.ff8c2dab.chunk.js": "test-sas/static/js/2.ff8c2dab.chunk.js",
+    "static/js/3.34c0dd95.chunk.js": "test-sas/static/js/3.34c0dd95.chunk.js",
+    "static/js/4.de4726fa.chunk.js": "test-sas/static/js/4.de4726fa.chunk.js",
+    "static/js/5.9d8521c7.chunk.js": "test-sas/static/js/5.9d8521c7.chunk.js",
+    "main.css": "test-sas/static/css/main.457cfcd1.chunk.css",
+    "main.js": "test-sas/static/js/main.866ac8ac.chunk.js",
+    "runtime-main.js": "test-sas/static/js/runtime-main.a14456a9.js",
+    "static/css/8.45542992.chunk.css": "test-sas/static/css/8.45542992.chunk.css",
+    "static/js/8.56c01227.chunk.js": "test-sas/static/js/8.56c01227.chunk.js",
+    "static/js/9.34c182db.chunk.js": "test-sas/static/js/9.34c182db.chunk.js",
+    "static/js/10.94cece34.chunk.js": "test-sas/static/js/10.94cece34.chunk.js",
+    "static/js/11.3fad7c68.chunk.js": "test-sas/static/js/11.3fad7c68.chunk.js",
+    "static/js/12.5ccbae60.chunk.js": "test-sas/static/js/12.5ccbae60.chunk.js",
+    "static/js/13.bc2e6f40.chunk.js": "test-sas/static/js/13.bc2e6f40.chunk.js",
+    "static/js/14.88a03a97.chunk.js": "test-sas/static/js/14.88a03a97.chunk.js",
+    "static/js/15.92fb703b.chunk.js": "test-sas/static/js/15.92fb703b.chunk.js",
+    "static/js/16.e63ca663.chunk.js": "test-sas/static/js/16.e63ca663.chunk.js",
+    "static/js/17.f5b21c7a.chunk.js": "test-sas/static/js/17.f5b21c7a.chunk.js",
+    "static/js/18.6b0131df.chunk.js": "test-sas/static/js/18.6b0131df.chunk.js",
+    "static/js/19.a8d65c79.chunk.js": "test-sas/static/js/19.a8d65c79.chunk.js",
+    "static/js/20.fb2bba59.chunk.js": "test-sas/static/js/20.fb2bba59.chunk.js",
+    "index.html": "test-sas/index.html",
+    "static/js/2.ff8c2dab.chunk.js.LICENSE.txt": "test-sas/static/js/2.ff8c2dab.chunk.js.LICENSE.txt",
+    "static/js/8.56c01227.chunk.js.LICENSE.txt": "test-sas/static/js/8.56c01227.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a14456a9.js",
+    "static/css/8.45542992.chunk.css",
+    "static/js/8.56c01227.chunk.js",
+    "static/css/main.457cfcd1.chunk.css",
+    "static/js/main.866ac8ac.chunk.js"
+  ]
+}
