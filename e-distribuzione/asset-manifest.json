@@ -1,0 +1,39 @@
+{
+  "files": {
+    "static/js/0.53066b98.chunk.js": "e-distribuzione/static/js/0.53066b98.chunk.js",
+    "static/js/1.2085d14a.chunk.js": "e-distribuzione/static/js/1.2085d14a.chunk.js",
+    "static/js/2.3e1a08b0.chunk.js": "e-distribuzione/static/js/2.3e1a08b0.chunk.js",
+    "static/js/3.2abde089.chunk.js": "e-distribuzione/static/js/3.2abde089.chunk.js",
+    "static/js/4.34773264.chunk.js": "e-distribuzione/static/js/4.34773264.chunk.js",
+    "static/js/5.6451bf2a.chunk.js": "e-distribuzione/static/js/5.6451bf2a.chunk.js",
+    "static/js/6.d3269529.chunk.js": "e-distribuzione/static/js/6.d3269529.chunk.js",
+    "main.css": "e-distribuzione/static/css/main.5b8526a5.chunk.css",
+    "main.js": "e-distribuzione/static/js/main.88685c15.chunk.js",
+    "runtime-main.js": "e-distribuzione/static/js/runtime-main.f9bad02b.js",
+    "static/css/9.45542992.chunk.css": "e-distribuzione/static/css/9.45542992.chunk.css",
+    "static/js/9.fd67bef3.chunk.js": "e-distribuzione/static/js/9.fd67bef3.chunk.js",
+    "static/js/10.f957fee6.chunk.js": "e-distribuzione/static/js/10.f957fee6.chunk.js",
+    "static/js/11.f4ba1d7b.chunk.js": "e-distribuzione/static/js/11.f4ba1d7b.chunk.js",
+    "static/js/12.9a110e54.chunk.js": "e-distribuzione/static/js/12.9a110e54.chunk.js",
+    "static/js/13.8b211efc.chunk.js": "e-distribuzione/static/js/13.8b211efc.chunk.js",
+    "static/js/14.1ecfe032.chunk.js": "e-distribuzione/static/js/14.1ecfe032.chunk.js",
+    "static/js/15.fc4856c3.chunk.js": "e-distribuzione/static/js/15.fc4856c3.chunk.js",
+    "static/js/16.ab393483.chunk.js": "e-distribuzione/static/js/16.ab393483.chunk.js",
+    "static/js/17.7b055168.chunk.js": "e-distribuzione/static/js/17.7b055168.chunk.js",
+    "static/js/18.9c0baa9b.chunk.js": "e-distribuzione/static/js/18.9c0baa9b.chunk.js",
+    "static/js/19.b9987a2d.chunk.js": "e-distribuzione/static/js/19.b9987a2d.chunk.js",
+    "static/js/20.686f43b4.chunk.js": "e-distribuzione/static/js/20.686f43b4.chunk.js",
+    "static/js/21.51e1d2f6.chunk.js": "e-distribuzione/static/js/21.51e1d2f6.chunk.js",
+    "static/js/22.975561a6.chunk.js": "e-distribuzione/static/js/22.975561a6.chunk.js",
+    "index.html": "e-distribuzione/index.html",
+    "static/js/2.3e1a08b0.chunk.js.LICENSE.txt": "e-distribuzione/static/js/2.3e1a08b0.chunk.js.LICENSE.txt",
+    "static/js/9.fd67bef3.chunk.js.LICENSE.txt": "e-distribuzione/static/js/9.fd67bef3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9bad02b.js",
+    "static/css/9.45542992.chunk.css",
+    "static/js/9.fd67bef3.chunk.js",
+    "static/css/main.5b8526a5.chunk.css",
+    "static/js/main.88685c15.chunk.js"
+  ]
+}
